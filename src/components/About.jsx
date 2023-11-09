@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          I am a frontend developer with a strong focus on delivering results.
+          I am a front-end developer with a strong focus on delivering results.
           My primary objective is to develop software with a user-centric
           approach, crafting applications that provide a seamless and intuitive
           user interface experience.
