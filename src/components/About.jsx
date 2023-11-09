@@ -13,21 +13,20 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia error
-          eligendi fuga! Architecto fugit vel officia aliquam consectetur vitae,
-          at, quam officiis odit ut suscipit minus commodi in tenetur
-          doloremque! Eos minus dolor, excepturi modi placeat nemo dolores
-          beatae odio totam, quia repellat sit inventore? Explicabo obcaecati ad
-          corporis laboriosam!
+          I am a frontend developer with a strong focus on delivering results.
+          My primary objective is to develop software with a user-centric
+          approach, crafting applications that provide a seamless and intuitive
+          user interface experience.
         </p>
         <br />
         <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
-          facilis harum cumque placeat quasi, labore doloribus culpa, doloremque
-          quo voluptate fuga illum excepturi eum minus qui aspernatur nobis
-          nisi. Necessitatibus aperiam beatae nihil facilis corrupti rerum qui,
-          consequatur voluptatum iste totam laudantium officia tenetur saepe
-          dignissimos aspernatur libero explicabo? Nemo.
+          I place great importance on producing code that is highly readable and
+          easily maintainable, recognizing its significance in the development
+          process. In this ever-evolving industry, I maintain a proactive
+          stance, continuously seeking to expand my knowledge and refine my
+          skills by embracing new technologies. I excel in problem-solving and
+          possess strong interpersonal skills, enabling effective collaboration
+          with colleagues, clients, and stakeholders.
         </p>
       </div>
     </div>
